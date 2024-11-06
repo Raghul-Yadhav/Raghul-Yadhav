@@ -1,4 +1,4 @@
-![MasterHead]([https://raw.githubusercontent.com/Raghul-Yadhav/Raghul-Yadhav/refs/heads/main/image.png)
+![MasterHead](https://raw.githubusercontent.com/Raghul-Yadhav/Raghul-Yadhav/refs/heads/main/image.png)
 
 <img align="right" alt="Coding" width="400" src="https://www.sciencefriday.com/wp-content/uploads/2023/05/ezgif.com-optimize.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghul-yadhav&label=Profile%20views&color=0e75b6&style=flat" alt="raghul-yadhav" /> </p>
